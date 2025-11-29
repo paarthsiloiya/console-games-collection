@@ -1,0 +1,6 @@
+[submodule "console-battleship"]
+	path = console-battleship
+	url = https://github.com/paarthsiloiya/console-battleship.git
+[submodule "console-minesweeper"]
+	path = console-minesweeper
+	url = https://github.com/paarthsiloiya/console-minesweeper.git
