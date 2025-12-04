@@ -4,3 +4,6 @@
 [submodule "console-minesweeper"]
 	path = console-minesweeper
 	url = https://github.com/paarthsiloiya/console-minesweeper.git
+[submodule "console-connect-4"]
+	path = console-connect-4
+	url = https://github.com/paarthsiloiya/console-connect-4.git
