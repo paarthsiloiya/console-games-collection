@@ -7,3 +7,6 @@
 [submodule "console-connect-4"]
 	path = console-connect-4
 	url = https://github.com/paarthsiloiya/console-connect-4.git
+[submodule "console-othello"]
+    path = console-othello
+    url = https://github.com/paarthsiloiya/console-othello.git
