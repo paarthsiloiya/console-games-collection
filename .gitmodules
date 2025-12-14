@@ -10,3 +10,6 @@
 [submodule "console-othello"]
 	path = console-othello
 	url = https://github.com/paarthsiloiya/console-othello.git
+[submodule "console-sudoku"]
+	path = console-sudoku
+	url = https://github.com/paarthsiloiya/console-sudoku.git
