@@ -13,3 +13,6 @@
 [submodule "console-sudoku"]
 	path = console-sudoku
 	url = https://github.com/paarthsiloiya/console-sudoku.git
+[submodule "console-nonogram"]
+	path = console-nonogram
+	url = https://github.com/paarthsiloiya/console-nonogram.git
